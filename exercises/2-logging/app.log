@@ -1,0 +1,7 @@
+2021-06-13 18:35:13,872 _internal :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-13 18:35:18,744 app : / endpoint was reached!
+2021-06-13 18:35:18,745 _internal : 127.0.0.1 - - [13/Jun/2021 18:35:18] "GET / HTTP/1.1" 200 -
+2021-06-13 18:35:24,438 app : /status endpoint was reached!
+2021-06-13 18:35:24,439 _internal : 127.0.0.1 - - [13/Jun/2021 18:35:24] "GET /status HTTP/1.1" 200 -
+2021-06-13 18:35:31,117 app : /metrics endpoint was reached!
+2021-06-13 18:35:31,118 _internal : 127.0.0.1 - - [13/Jun/2021 18:35:31] "GET /metrics HTTP/1.1" 200 -
