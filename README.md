@@ -21,7 +21,7 @@ A repository containing useful resources needed to complete the SUSE Scholarship
 
 ---
 ## Usage
-To run a Flask application, navigate to the folder and run either `python3 app.py` or `flask.run` commands
+To run a Flask application, navigate to the folder and run either `python3 app.py` or `flask run` commands
 
 ---
 
@@ -29,7 +29,7 @@ To run a Flask application, navigate to the folder and run either `python3 app.p
 
 All contributions are welcome!
 
-- If you're a fellow scholar or just someone who is intersted to learn, feel free to make a PR
+- If you're a fellow scholar or just someone who is interested to learn, feel free to make a PR
 - In case of major changes/enhancements, please open an Issue first
 
 --- 
