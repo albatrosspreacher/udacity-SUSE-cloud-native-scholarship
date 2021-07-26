@@ -10,8 +10,8 @@ A repository containing useful resources needed to complete the SUSE Scholarship
 
 > I update these as and when I complete the courses, quizzes, and exercises
 
-- Detailed notes of the lessons are available [here](https://www.notion.so/smolpkg/Udacity-SUSE-Cloud-Native-Scholarship-Program-e42890b84701411da4b6e7b95403ce08)
-- Answers to all the quizzes and exercises are available [here](https://www.notion.so/smolpkg/Udacity-SUSE-Cloud-Native-Scholarship-Program-Exercises-and-Quizzes-83cb4ccfac3b4f92b663dcbf6886409d)
+- Detailed notes of the lessons are available [here](https://smolpkg.notion.site/Udacity-SUSE-Cloud-Native-Scholarship-Program-e42890b84701411da4b6e7b95403ce08)
+- Answers to all the quizzes and exercises are available [here](https://smolpkg.notion.site/Udacity-SUSE-Cloud-Native-Scholarship-Program-Exercises-and-Quizzes-83cb4ccfac3b4f92b663dcbf6886409d)
 - Docker Cheat Sheet for beginners is available [here](resources/Docker-Cheat-Sheet.pdf)
 - Kubernetes Resources mind map is available [here](https://whimsical.com/kubernetes-resources-5nAUygYA97TfJ71aUKs6Tg)
 
@@ -20,7 +20,22 @@ A repository containing useful resources needed to complete the SUSE Scholarship
 ## Exercises
 1. [Exercise: Endpoints for Application Status](exercises/1-endpoints)
 2. [Exercise: Application Logging](exercises/2-logging)
+3. [python-helloworld](exercises/python-helloworld)
+4. [go-helloworld](exercises/go-helloworld)
 
+---
+
+## Docker Images
+1. [python-helloworld](https://hub.docker.com/repository/docker/nandiniproothi/python-helloworld)
+2. [go-helloworld](https://hub.docker.com/repository/docker/nandiniproothi/go-helloworld)
+---
+## Notes
+1. [Lesson 1](notes/l1.pdf)
+2. [Lesson 2](notes/l2.pdf)
+3. [Lesson 3](notes/l3.pdf)
+4. [Lesson 4](notes/l4.pdf)
+5. [Lesson 5](notes/l5.pdf)
+6. [Commands Used](notes/cu.pdf)
 ---
 ## Usage
 To run a Flask application, navigate to the folder and run either `python3 app.py` or `flask run` commands
