@@ -6,9 +6,7 @@ A repository containing useful resources needed to complete the SUSE Scholarship
 
 ---
 
-## Resources 
-
-> I update these as and when I complete the courses, quizzes, and exercises
+## Resources
 
 - Detailed notes of the lessons are available [here](https://smolpkg.notion.site/Udacity-SUSE-Cloud-Native-Scholarship-Program-e42890b84701411da4b6e7b95403ce08)
 - Answers to all the quizzes and exercises are available [here](https://smolpkg.notion.site/Udacity-SUSE-Cloud-Native-Scholarship-Program-Exercises-and-Quizzes-83cb4ccfac3b4f92b663dcbf6886409d)
